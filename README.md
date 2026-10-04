@@ -61,10 +61,3 @@
 #### 🤖 SmartRoute AI (Hackathon Project)
 - **What it is:** An AI-driven MCD complaint routing system built to optimize civic issue resolution.
 - **Tech Stack:** Python, Machine Learning.
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonukrthakur3&show_icons=true&theme=radical&hide_border=true" alt="Sonu's GitHub Stats" />
-</p>
