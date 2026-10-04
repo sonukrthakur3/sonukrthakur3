@@ -52,7 +52,12 @@
 - **What it is:** An advanced Power BI dashboard processing Swiggy and Zomato datasets to analyze restaurant density, pricing, and customer ratings.
 - **Tech Stack:** Python, Pandas, Power BI, DAX, Excel.
 - *Business Value: Designed to provide actionable insights into the Indian food delivery ecosystem.*
-
+- 
+#### ⚡ [EV-ChargeNet (SQL Analytics)](https://github.com/sonukrthakur3/EV-ChargeNet_sql)
+- **What it is:** A comprehensive data analysis project analyzing electric vehicle charging infrastructure to recommend optimal station locations in Delhi.
+- **Tech Stack:** SQL, Python, Pandas, Data Visualization.
+- *Business Value: Recommends data-driven infrastructure planning based on relational database queries.*
+- 
 #### ⚡ EV Charging Infrastructure Analytics
 - **What it is:** A comprehensive data analysis project to find optimal locations for new electric vehicle charging stations in Delhi.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
