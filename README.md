@@ -15,34 +15,25 @@
 ### 🚀 About Me
 - 🎓 I'm currently pursuing my **B.Tech in CSE** at GGSIPU, New Delhi.
 - 💡 My primary focus is on **Data Analytics**. I love turning raw, messy data into meaningful business insights.
-- 📊 Currently building dynamic dashboards and analyzing datasets using **Python, Pandas, SQL, and Power BI**.
 - 🏆 Experienced Hackathon Team Lead (MisFits & SolGen), driving technical projects from ideation to deployment.
 - 🎸 Fun Fact: When I'm not crunching numbers or coding, I write original Hindi songs and compose acoustic music!
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️️ Tech Stack & Skills
 
-**Data Analytics & Visualization** (Core)
-<p align="left">
-  <img src="https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/DAX-005288?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
+**📊 Data Analytics & Visualization**
+- **Databases:** SQL / MySQL
+- **Programming:** Python
+- **Data Manipulation:** Pandas / NumPy
+- **Data Visualization:** Matplotlib / Seaborn
+- **Business Intelligence:** Power BI, DAX
+- **Spreadsheets:** Microsoft Excel
 
-**Software Development & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-</p>
+**⚙️ Developer Tools**
+- Git / GitHub
+- Jupyter Notebook
+- VS Code
 
 ---
 
@@ -52,16 +43,11 @@
 - **What it is:** An advanced Power BI dashboard processing Swiggy and Zomato datasets to analyze restaurant density, pricing, and customer ratings.
 - **Tech Stack:** Python, Pandas, Power BI, DAX, Excel.
 - *Business Value: Designed to provide actionable insights into the Indian food delivery ecosystem.*
-- 
+
 #### ⚡ [EV-ChargeNet (SQL Analytics)](https://github.com/sonukrthakur3/EV-ChargeNet_sql)
 - **What it is:** A comprehensive data analysis project analyzing electric vehicle charging infrastructure to recommend optimal station locations in Delhi.
 - **Tech Stack:** SQL, Python, Pandas, Data Visualization.
 - *Business Value: Recommends data-driven infrastructure planning based on relational database queries.*
-- 
-#### ⚡ EV Charging Infrastructure Analytics
-- **What it is:** A comprehensive data analysis project to find optimal locations for new electric vehicle charging stations in Delhi.
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
-- *Business Value: Recommends data-driven infrastructure planning.*
 
 #### 🤖 SmartRoute AI (Hackathon Project)
 - **What it is:** An AI-driven MCD complaint routing system built to optimize civic issue resolution.
